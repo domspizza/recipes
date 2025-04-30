@@ -3,3 +3,4 @@
 *chick peas
 *garlic
 *tahini
+*salt
