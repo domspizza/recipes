@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-*Cut open avocado and removing the pit
+*Cut and peel open avocado and removing the pit
